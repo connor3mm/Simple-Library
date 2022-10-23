@@ -1,7 +1,7 @@
-# simpleLibrary
+# SimpleLibrary
 
 - Created in 2020
-- Simple library is an applications where users are created and stored within the application.
+- Simple library is an application in which users are created and stored within the application.
 - It prints various books and journals in which users can check out
 - Users can then return books.
 - Simple library can Print all users and stock
